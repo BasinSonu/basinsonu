@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Basin Sonu from India, and I'm a Full Stack Developer. I really enjoy learning languages and frameworks like React js, Node js etc...
 <!--
 **BasinSonu/basinsonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
