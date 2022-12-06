@@ -3,7 +3,8 @@
 <!-- <img align="right" alt="Coding" width="10000" max-height="10" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif"></br> -->
 <h1 align="center">Hi 👋, I'm Basin Sonu</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"
+<!-- <img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> -->
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1670308024~exp=1670308624~hmac=f5e699eef48dca221cbcb442509cfa75e66868571e4b03ae2d6dbe3a28ce8972">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basinsonu&label=Profile%20views&color=0e75b6&style=flat" alt="basinsonu" /> </p>
